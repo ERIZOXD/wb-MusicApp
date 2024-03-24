@@ -1,0 +1,14 @@
+
+@media (min-width:400px) {
+    
+}
+
+body{
+    background-color: #1c1c1c;
+}
+
+.titulo{
+    display:grid;
+    place-items: center;
+    color: white;
+}
